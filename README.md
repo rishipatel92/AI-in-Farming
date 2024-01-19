@@ -1,2 +1,1 @@
-# FeynnLabs
-Ai in Farming
+# Ai in Farming
